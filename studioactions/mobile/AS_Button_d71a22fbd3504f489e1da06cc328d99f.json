@@ -1,0 +1,31 @@
+{
+    "AS_Button_d71a22fbd3504f489e1da06cc328d99f": {
+        "id": "AS_Button_d71a22fbd3504f489e1da06cc328d99f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "MainScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e56c731eb2eb4b1cbaaa10603e9cbadd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___g1e2fa84ec8a47d19f9432db39eeadb2",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "ChartScreen",
+            "formKUID": "f110d343fca74e1282133ce4f32808bb",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"ButtonRound\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}
