@@ -82,7 +82,7 @@
     "androidwearosUsesmap": "false",
     "androidwearosUsesvideo": "false",
     "andtargetsdkkey": "10.0 (29)",
-    "andwearapppackagekey": "com.orgname.KonyProject",
+    "andwearapppackagekey": "com.orgname.KonyP",
     "andwearappversioncode": "1",
     "andwearmaxsdkkey": "None",
     "andwearminsdkkey": "7.1 (25)",
@@ -100,7 +100,7 @@
     "apmserviceresponse": "false",
     "apmtouchorclick": "",
     "appaddrkey": "",
-    "appidkey": "KonyProject",
+    "appidkey": "KonyP",
     "appiniteventkey": "None",
     "applepushfunc": "None",
     "apploadeventkey": "None",
@@ -113,7 +113,7 @@
                         "default": "option1.png"
                     },
                     "id": "appmenuitemid1",
-                    "kuid": "ha6950dc7aa74e2f954ec9fc6fa80ae9",
+                    "kuid": "gc42b953bfbc4a5e99f753c1ad685b8b",
                     "title": "Item 1"
                 },
                 {
@@ -121,7 +121,7 @@
                         "default": "option2.png"
                     },
                     "id": "appmenuitemid2",
-                    "kuid": "hfc8c110236d41dfb0e05dbf67ddf3bc",
+                    "kuid": "g094e20e453648a7b2f59e242059bb6c",
                     "title": "Item 2"
                 },
                 {
@@ -129,7 +129,7 @@
                         "default": "option3.png"
                     },
                     "id": "appmenuitemid3",
-                    "kuid": "c51484c604594461b0af1d4fabd6a52c",
+                    "kuid": "ie8da3912f064936a1e5f357ed53101d",
                     "title": "Item 3"
                 },
                 {
@@ -137,7 +137,7 @@
                         "default": "option4.png"
                     },
                     "id": "appmenuitemid4",
-                    "kuid": "b7608471cff04194828047a3864a54cf",
+                    "kuid": "db51d84dd8da48c78aebe347d0e00e9b",
                     "title": "Item 4"
                 }
             ]
@@ -154,7 +154,7 @@
                         "default": "option1.png"
                     },
                     "id": "appmenuitemid1",
-                    "kuid": "gb44e5e116fb4cdf8dda2637a089e1d5",
+                    "kuid": "iffd52f8f4cb4a0dabe7e41ff80f1e81",
                     "title": "Item 1"
                 },
                 {
@@ -165,7 +165,7 @@
                         "default": "option2.png"
                     },
                     "id": "appmenuitemid2",
-                    "kuid": "i695a3206e1e4f148abc264fec5078ec",
+                    "kuid": "e0d3509050614ae7b0d7255903a991d4",
                     "title": "Item 2"
                 },
                 {
@@ -176,7 +176,7 @@
                         "default": "option3.png"
                     },
                     "id": "appmenuitemid3",
-                    "kuid": "jcb8214a107747b29ff34ed28048e905",
+                    "kuid": "e198a3dd3c454e158a43df506bd744cf",
                     "title": "Item 3"
                 },
                 {
@@ -187,7 +187,7 @@
                         "default": "option4.png"
                     },
                     "id": "appmenuitemid4",
-                    "kuid": "i3b02ab757a84491b204edb7c222aab4",
+                    "kuid": "i019d9067a17424eb19495ea4a02ee4b",
                     "title": "Item 4"
                 }
             ]
@@ -205,7 +205,7 @@
                         "default": "option1.png"
                     },
                     "id": "appmenuitemid1",
-                    "kuid": "j0f51be5873345588288dd223b338527",
+                    "kuid": "a94e98dfef9f4f8a87987e650302e204",
                     "title": "Item 1",
                     "windows8": {
                         "appBarButtonStyle": "No Style",
@@ -220,7 +220,7 @@
                         "default": "option2.png"
                     },
                     "id": "appmenuitemid2",
-                    "kuid": "j41f617b28864af7ab1e1a45fba496ed",
+                    "kuid": "d0a80c2dc29e4c68b498164ce41d18bc",
                     "title": "Item 2",
                     "windows8": {
                         "appBarButtonStyle": "No Style",
@@ -235,7 +235,7 @@
                         "default": "option3.png"
                     },
                     "id": "appmenuitemid3",
-                    "kuid": "efb34bfd914041a8b7508f91f63102f6",
+                    "kuid": "f8d9623ca0294e76921aae9dc24939a1",
                     "title": "Item 3",
                     "windows8": {
                         "appBarButtonStyle": "No Style",
@@ -250,7 +250,7 @@
                         "default": "option4.png"
                     },
                     "id": "appmenuitemid4",
-                    "kuid": "c50821a2b23c406dadc0270f6859e9cc",
+                    "kuid": "edc376d778734795943e30b9e730b740",
                     "title": "Item 4",
                     "windows8": {
                         "appBarButtonStyle": "No Style",
@@ -261,9 +261,9 @@
         },
         "wType": "Appmenu"
     },
-    "appnamekey": "KonyProject",
+    "appnamekey": "KonyP",
     "appointments": "false",
-    "apppackagekey": "com.orgname.KonyProject",
+    "apppackagekey": "com.orgname.KonyP",
     "apptitle": "",
     "appversioncode": "1",
     "appversionkey": "1.0.0",
@@ -318,7 +318,7 @@
     "customfcmservice": "",
     "customgcmbroadcastreceiver": "",
     "deeplinkkey": "None",
-    "defaultlocalekey": "",
+    "defaultlocalekey": "ar",
     "defaulttheme": "defaultTheme",
     "desktopwebaligenmentoption": "left",
     "desktopwebbasefontsize": "16",
@@ -409,7 +409,7 @@
     "iphone_spotlighticon_2x_40": "",
     "iphone_spotlighticon_3x_29": "",
     "iphone_spotlighticon_3x_40": "",
-    "iphonebundleidentifierkey": "com.kony.KonyProject",
+    "iphonebundleidentifierkey": "com.kony.KonyP",
     "iphonebundleversionkey": "1.0",
     "iphoneipad_appstoreicon_1x_1024": "",
     "iphoneipadglossyeffectkey": "false",
@@ -432,7 +432,7 @@
     "keyStorePassword": "",
     "keyStorePasswordandwear": "",
     "konyVizVersion": "8.4.134",
-    "lastmodifiedtime": "1625027342932",
+    "lastmodifiedtime": "1625148070293",
     "location": "false",
     "log_level": "ERROR",
     "mangoapptitlekey": ",,,,,,",
@@ -748,7 +748,7 @@
     "spawindows480basefontsize": "12",
     "spawindowstabbasefontsize": "17",
     "splashlogokey": "",
-    "startupformkey": "e56c731eb2eb4b1cbaaa10603e9cbadd",
+    "startupformkey": "c70464745ba4482fa64a621276222ee4",
     "statusBarHidden": "false",
     "statusBarStyle": "STATUS_BAR_STYLE_DEFAULT",
     "support64bit": "false",
@@ -856,16 +856,16 @@
     "win8bgagenttaskname": "",
     "win8certificatekey": "",
     "win8descriptionkey": "Sample Test Application",
-    "win8displaynamekey": "KonyProject",
+    "win8displaynamekey": "KonyP",
     "win8enablecrashlogkey": "false",
     "win8lockscreennotificationskey": "Not set",
-    "win8packagedisplaynamekey": "KonyProject",
+    "win8packagedisplaynamekey": "KonyP",
     "win8packagelogokey": "",
-    "win8packagenamekey": "KonyProject",
+    "win8packagenamekey": "KonyP",
     "win8packagepublichernamekey": "Kony",
     "win8publisherdisplaynamekey": "KonyLabs",
     "win8pvkkey": "",
-    "win8shortnamekey": "KonyProject",
+    "win8shortnamekey": "KonyP",
     "win8shownamekey": "Not set",
     "win8smalllogokey": "",
     "win8toastcapablekey": "Not set",
@@ -883,7 +883,7 @@
     "windowsloadindicatorkey": "true",
     "windowsmapkey": "",
     "winenablecrashlogkey": "false",
-    "winmangotiletitlekey": "KonyProject",
+    "winmangotiletitlekey": "KonyP",
     "winmobileguidkey": "",
     "winmobiletileimagekey": "",
     "winphn10bgagentclassname": "",
@@ -911,7 +911,7 @@
     "wp10codeGeneration": "false",
     "wp10contacts": "false",
     "wp10descriptionkey": "Sample Test Application",
-    "wp10displayname": "KonyProject",
+    "wp10displayname": "KonyP",
     "wp10enablecrashlogkey": "false",
     "wp10enterpriseAuthentication": "false",
     "wp10initialRotationPreferenceKey": "landscape",
@@ -922,9 +922,9 @@
     "wp10microphone": "false",
     "wp10musicLibrary": "false",
     "wp10objects3D": "false",
-    "wp10packagedisplaynamekey": "KonyProject",
+    "wp10packagedisplaynamekey": "KonyP",
     "wp10packagelogokey": "",
-    "wp10packagenamekey": "KonyProject",
+    "wp10packagenamekey": "KonyP",
     "wp10packagepublichernamekey": "KonyLabs",
     "wp10pfxkey": "",
     "wp10phoneCall": "false",
@@ -935,7 +935,7 @@
     "wp10remoteSystem": "false",
     "wp10removableStorage": "false",
     "wp10sharedUserCertificates": "false",
-    "wp10shortnamekey": "KonyProject",
+    "wp10shortnamekey": "KonyP",
     "wp10shownamekey": "Not set",
     "wp10smalllogokey": "",
     "wp10tileUpdateRecurrenceKey": "",
@@ -953,10 +953,10 @@
     "wp10webcam": "false",
     "wp10widelogokey": "",
     "wp81sdescriptionkey": "Sample Test Application",
-    "wp81sdisplaynamekey": "KonyProject",
+    "wp81sdisplaynamekey": "KonyP",
     "wp81slockscreennotificationskey": "Not set",
-    "wp81spackagedisplaynamekey": "KonyProject",
-    "wp81spackagenamekey": "KonyProject",
+    "wp81spackagedisplaynamekey": "KonyP",
+    "wp81spackagenamekey": "KonyP",
     "wp81spackagepublichernamekey": "Kony",
     "wp81spublisherdisplaynamekey": "KonyLabs",
     "wp81stoastcapablekey": "Not set",

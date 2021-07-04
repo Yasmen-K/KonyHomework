@@ -3,10 +3,10 @@
     "orientation": "any",
     "background_color": "#FFFFFF",
     "display": "standalone",
-    "name": "KonyProject",
-	"id": "KonyProject",
-    "short_name": "KonyProject",
-	"start_url": "/apps/KonyProject/",
+    "name": "KonyP",
+	"id": "KonyP",
+    "short_name": "KonyP",
+	"start_url": "/apps/KonyP/",
     "icons": [{
     "src": "kony_48.png",
     "sizes": "48x48",
@@ -39,6 +39,6 @@
     }],
     "related_applications": [{
         "platform": "web",
-		"url": "http://localhost:port/apps/KonyProject/"
+		"url": "http://localhost:port/apps/KonyP/"
     }]
 }

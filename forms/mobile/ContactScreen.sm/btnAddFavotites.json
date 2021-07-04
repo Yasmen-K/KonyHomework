@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        47,
+        0
+    ],
+    "_skin_": "s60618d5e44345a3a16eadaecc376b5e",
+    "_text_": "Add to Favorites",
+    "_top_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s4e158bc797e41dda54f4e78ff77663e",
+    "id": "btnAddFavotites",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e00e3aad693d4977b254b29f1a7067b7",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "extraBtnContainer",
+    "pf": "ContactScreen",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

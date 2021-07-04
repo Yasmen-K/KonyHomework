@@ -1,0 +1,85 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "1.40%"
+    },
+    "_skin_": "s88ae6ae87f64f5aadd1590f4a1f51b3",
+    "_src_": "cross_1_3.png",
+    "_width_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "android": {
+        "right": {
+            "type": "string",
+            "value": "10dp"
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "uwcab64d3c05f7425eb9d1f28e79bbb781",
+        "platform": "spaip",
+        "templateType": "userwidgets",
+        "topLevelBox": null
+    },
+    "id": "ImgClose",
+    "ide_onTouchStart": "AS_Image_h23a44eda0764da2b1e9ccd375f70039",
+    "imagescalemode": 1,
+    "info": null,
+    "iphone": {
+        "right": {
+            "type": "string",
+            "value": "10dp"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ae8fe9d2cae54a7ea263297f185c81b0",
+    "name": "kony.ui.Image2",
+    "parent": "ToastSuccess",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "spaan": {
+        "right": {
+            "type": "string",
+            "value": "10dp"
+        }
+    },
+    "spaip": {
+        "right": {
+            "type": "string",
+            "value": "10dp"
+        }
+    },
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}
