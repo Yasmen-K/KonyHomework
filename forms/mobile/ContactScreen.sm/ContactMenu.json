@@ -1,0 +1,223 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "51.50%"
+    },
+    "_iphone_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s2447c10e42a4cb68602fc078bb552b2",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_top_": {
+        "type": "string",
+        "value": "133dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "102.41%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "ContactMenu": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "fa202263c2374e25aa3911d2d98603c8",
+                "srcKUID": "ba62e3260c644ad1872953a705d79917",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "51.50%"
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "133dp"
+                }
+            }
+        },
+        "callContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h3539a60b2fb4018988747a2ed527b54",
+                "srcKUID": "gbb6f48d863f44d1800440accb211ac2",
+                "wType": "FlexContainer"
+            }
+        },
+        "faceTimeContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "af165adb14dc483f86b416d1d86efafa",
+                "srcKUID": "f05082afe36b41fea19d831770f3182e",
+                "wType": "FlexContainer"
+            }
+        },
+        "iconCall": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cb8afbe023ec43119ef5caf97696ec28",
+                "srcKUID": "ad36c87fe6f44a1fa6932cade24dfafa",
+                "wType": "Label"
+            }
+        },
+        "iconCamera": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f8fa2db2ce3d45abbfb9ba72738e15e5",
+                "srcKUID": "b8a9449ffabc4e78bc533402866125c2",
+                "wType": "Label"
+            }
+        },
+        "iconDollar": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h723b0a05ab3496c8035b5c5685f4e50",
+                "srcKUID": "g6221c2687e9477a9f6f5f1855f5822b",
+                "wType": "Label"
+            }
+        },
+        "iconMail": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f083d7222ea045909d96648d72fce01a",
+                "srcKUID": "j6cf1c70dc0d4f9899f54650bedc5249",
+                "wType": "Label"
+            }
+        },
+        "iconMessage": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f4b29a886f6f4a3cbbb5723ef6eb8636",
+                "srcKUID": "hf71aff8f96646f399e9d5cddd383cfa",
+                "wType": "Label"
+            }
+        },
+        "lblCall": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d5526ed323e949298df604253fd72f83",
+                "srcKUID": "a6ae8038bfbe40248a8c1bad44fda78a",
+                "wType": "Label"
+            }
+        },
+        "lblFaceTime": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dcb07c8598f3417ea2824a08cfbc4167",
+                "srcKUID": "e88aba3973224ae6a8e9445437793a02",
+                "wType": "Label"
+            }
+        },
+        "lblMail": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cc1db42f97944a1d9962cfcb6aa4bc59",
+                "srcKUID": "a6705545f85e4fa8a0e4d8ea8b01ac63",
+                "wType": "Label"
+            }
+        },
+        "lblMessage": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ed0b646d52e54c1cba1b351b10a2e38d",
+                "srcKUID": "eb09afcf658749ba84cc426de6ccd052",
+                "wType": "Label"
+            }
+        },
+        "lblPay": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d4da883d3ef34213a2b6ce97f10de96b",
+                "srcKUID": "df870fa7d3714b69b8eaaa26f9b8438b",
+                "wType": "Label"
+            }
+        },
+        "mailContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "aea47f6e956b4349b225cc4eb1c0e9f2",
+                "srcKUID": "cfa867d0b843465788cabf7b53672a88",
+                "wType": "FlexContainer"
+            }
+        },
+        "messageContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b2d64acd19fa4e0e9b1291739e60e019",
+                "srcKUID": "a8f08bcbaa94478785280e2b1993c254",
+                "wType": "FlexContainer"
+            }
+        },
+        "payContainer": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f09abdf921f54f6db157510141e91284",
+                "srcKUID": "g518084b5b1a4f7a948b74b31d58c429",
+                "wType": "FlexContainer"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "ContactMenu",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "issegmentchild": false,
+    "isvisible": true,
+    "kuid": "fa202263c2374e25aa3911d2d98603c8",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "optionsContainer",
+    "pf": "ContactScreen",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "ba62e3260c644ad1872953a705d79917",
+    "wType": "UserWidgetInstance"
+}

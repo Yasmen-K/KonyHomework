@@ -23,7 +23,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sb3d01cf2b614839b4770e6f250154e0",
+    "_skin_": "s5cb1cd2c4784adfbddbb10709cff4e2",
     "_top_": {
         "type": "string",
         "value": "33dp"
@@ -37,8 +37,8 @@
     "canUpdateUI": true,
     "children": [
         "imgContainer",
-        "btnContainer",
-        "AngleRight"
+        "AngleRight",
+        "ContactMenu"
     ],
     "clipbounds": true,
     "containerweight": 100,

@@ -1,0 +1,32 @@
+{
+    "AS_Button_da4bdb5b30654401a3679fb3278fecd5": {
+        "id": "AS_Button_da4bdb5b30654401a3679fb3278fecd5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ContactScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c70464745ba4482fa64a621276222ee4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___ee1a9a9b364d4069b86e5fafd427a547",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "ListsScreen",
+            "friendlyName": "ListsScreen",
+            "formKUID": "i0bc66cd42674dadbb15ffa028e74ad4",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

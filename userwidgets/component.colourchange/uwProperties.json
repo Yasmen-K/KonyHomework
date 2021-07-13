@@ -1,0 +1,86 @@
+{
+    "classname": "colourchange",
+    "definitions": {
+        "apis": {
+            "custom": [],
+            "passthrough": []
+        },
+        "events": {
+            "custom": [],
+            "passthrough": [
+                {
+                    "access": "Enable",
+                    "group": "General",
+                    "kuid": "b8c428ac29e0412986bf73eba027e911",
+                    "originalPropertyKey": "onClick",
+                    "propertyIndex": 1,
+                    "propertyKey": "change",
+                    "pw": {
+                        "access": "readwrite",
+                        "category": "action",
+                        "displayName": "change",
+                        "srcWidget": "btnChangeColour",
+                        "type": "action",
+                        "uiRepresentation": "Label-Label-Button-Button",
+                        "wType": "Button"
+                    },
+                    "srcWgtKUID": "c20da2bf73584e5f89eca6c0e2b2c9af"
+                }
+            ]
+        },
+        "groups": {
+            "apis": [],
+            "events": [],
+            "properties": [],
+            "widgets": []
+        },
+        "properties": {
+            "custom": [
+                {
+                    "access": "Write",
+                    "defaultValue": "",
+                    "group": "General",
+                    "kuid": "c1c67199c8b64614aaad1b94f10c20fb",
+                    "originalPropertyKey": "inputColour",
+                    "propertyIndex": 1,
+                    "propertyKey": "inputColour",
+                    "pw": {
+                        "displayName": "inputColour",
+                        "uiRepresentation": "Label-Textbox"
+                    },
+                    "srcWgtKUID": "if3324934b71413abfb1f6c99470187a",
+                    "type": "string",
+                    "value": ""
+                }
+            ],
+            "passthrough": []
+        },
+        "widgets": {
+            "expose": [
+                {
+                    "kuid": "b436998cb1d64c2197936dbaf40d37a3",
+                    "propertyKey": "btnChangeColour",
+                    "srcWgtKUID": "c20da2bf73584e5f89eca6c0e2b2c9af"
+                },
+                {
+                    "kuid": "a1afd134037d47e2b8b346c93eaa4c4b",
+                    "propertyKey": "lblColourName",
+                    "srcWgtKUID": "g8a46a417f3041ad8b220aa96ae399ae"
+                },
+                {
+                    "kuid": "dbea989751e345499703b46c37ee516d",
+                    "propertyKey": "txtEnterColour",
+                    "srcWgtKUID": "e8ea770bb2bc4021a7a0e5fe9a520cdf"
+                },
+                {
+                    "kuid": "h95f00dea5af4aaeae915d38c31a6ee5",
+                    "propertyKey": "flxColourShower",
+                    "srcWgtKUID": "e4d7c37554db4b35996f3971af8a95d4"
+                }
+            ],
+            "passthrough": []
+        }
+    },
+    "namespace": "component",
+    "version": "1.0.0"
+}

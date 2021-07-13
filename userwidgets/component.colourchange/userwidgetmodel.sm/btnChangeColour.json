@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_blur_": {
+        "enabled": true
+    },
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "43dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s16f1f2f98bf4475812274704dc687a2",
+    "_text_": "Click here to see the colour",
+    "_top_": {
+        "type": "string",
+        "value": "439dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s4e158bc797e41dda54f4e78ff77663e",
+    "id": "btnChangeColour",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c20da2bf73584e5f89eca6c0e2b2c9af",
+    "name": "kony.ui.Button",
+    "parent": "colourchange",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

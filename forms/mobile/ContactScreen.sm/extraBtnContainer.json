@@ -23,7 +23,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sa8135f1cd2c4a8c90ea67e719e5368e",
+    "_skin_": "se3bb888fad746619fd1fe0226b29ca0",
     "_top_": {
         "type": "string",
         "value": "557dp"
@@ -36,7 +36,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "Button0bf3f2feb06a347",
+        "btnSenMeassage",
         "btnShareContact",
         "btnAddFavotites"
     ],

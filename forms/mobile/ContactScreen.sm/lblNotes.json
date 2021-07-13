@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "18dp"
+        "value": "5%"
     },
     "_margin_": [
         1,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "sc60b483c7434268a00b34b281cab1d6",
+    "_skin_": "sb301102c3a4430297b664832936cd12",
     "_text_": "Notes",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "4%"
     },
     "_width_": {
         "type": "ref",
