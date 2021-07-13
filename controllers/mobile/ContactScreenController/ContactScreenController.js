@@ -17,9 +17,10 @@ onViewCreated: function(){
         this.context = context;
     
     	
-    alert(JSON.stringify(context));
+   
     	if(context){
           this.view.lblName.text = context[0].lblName.text;
+          this.view.lblMobilePhone.text = context[0].lblPhone.text;
         }
           
         },
