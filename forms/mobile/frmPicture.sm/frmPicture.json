@@ -29,16 +29,12 @@
         "needAppMenu": false
     },
     "canUpdateUI": true,
-    "children": [
-        "colourchange",
-        "btnSubmitColour",
-        "txtColourInput"
-    ],
+    "children": [],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "frmColourBoxController"
+            "name": "frmPictureController"
         }
     },
     "currentLocale": "default",
@@ -48,8 +44,8 @@
     "device": "iPhoneXS",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "friendlyName": "frmColourBox",
-    "id": "frmColourBox",
+    "friendlyName": "frmPicture",
+    "id": "frmPicture",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -67,7 +63,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "j18c9d6c715f4870ae2a715cc0d68a8d",
+                "kuid": "ifbfb9b6b25d4ae697a7e469eb4ea4cb",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -78,7 +74,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "bbe81f867bf44eeab280db1fffd20635",
+                        "kuid": "jc5fdfa721874021a4ccf046df67c904",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -95,7 +91,7 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "f37035c8063645dc8141a41e752c0723",
+    "kuid": "j69a098c69aa4fdf890bced40248a8da",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,

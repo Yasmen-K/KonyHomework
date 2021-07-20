@@ -36,17 +36,16 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "lblColourName",
-        "flxColourShower"
+        "imgDisplay"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "colourchange",
+    "id": "Picture",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "if3324934b71413abfb1f6c99470187a",
+    "kuid": "cd090c804a4a427e999d65bedbd9b9b8",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "userwidgetmodel",

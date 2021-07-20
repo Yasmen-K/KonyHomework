@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "240dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "63dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s88ae6ae87f64f5aadd1590f4a1f51b3",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "230dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "uwu5f5a75da90a4e9e89dcd6bb4cfed7a6",
+        "templateType": "userwidgets",
+        "topLevelBox": null
+    },
+    "id": "imgDisplay",
+    "imagescalemode": 1,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e3d55eeda4b542dba7992b756d1fbcdb",
+    "name": "kony.ui.Image2",
+    "parent": "Picture",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

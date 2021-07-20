@@ -2,18 +2,24 @@ define({
 
  //Type your controller code here 
   
-  init: function(){
-  this.view.preShow = this.preShow;
+  onViewCreated:function(){
+      this.view.init = this.init;
   },
   
-  preShow: function(){
-    this.view.btnChangeColour = this.change;
+  init: function(){
+  this.view.preShow = this.preShow;
+  this.view.btnSubmitColour.onClick = this.cliked;
+  },
+  
+ 
+  
+  cliked:function(){
+    this.view.colourchange.inputColour = this.view.txtColourInput.text; 
+    this.view.txtColourInput.text = "";
+    
   },
 
   
-  change: function(){
-    this.view.colourchange.btnChangeColour._inputColour = this.view.txtEnterColour.txt;
-    alert(this.view.txtEnterColour.txt);
-  },
+  
 
  });

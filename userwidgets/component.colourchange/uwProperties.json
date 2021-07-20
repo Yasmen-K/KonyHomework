@@ -7,26 +7,7 @@
         },
         "events": {
             "custom": [],
-            "passthrough": [
-                {
-                    "access": "Enable",
-                    "group": "General",
-                    "kuid": "b8c428ac29e0412986bf73eba027e911",
-                    "originalPropertyKey": "onClick",
-                    "propertyIndex": 1,
-                    "propertyKey": "change",
-                    "pw": {
-                        "access": "readwrite",
-                        "category": "action",
-                        "displayName": "change",
-                        "srcWidget": "btnChangeColour",
-                        "type": "action",
-                        "uiRepresentation": "Label-Label-Button-Button",
-                        "wType": "Button"
-                    },
-                    "srcWgtKUID": "c20da2bf73584e5f89eca6c0e2b2c9af"
-                }
-            ]
+            "passthrough": []
         },
         "groups": {
             "apis": [],
@@ -58,19 +39,9 @@
         "widgets": {
             "expose": [
                 {
-                    "kuid": "b436998cb1d64c2197936dbaf40d37a3",
-                    "propertyKey": "btnChangeColour",
-                    "srcWgtKUID": "c20da2bf73584e5f89eca6c0e2b2c9af"
-                },
-                {
                     "kuid": "a1afd134037d47e2b8b346c93eaa4c4b",
                     "propertyKey": "lblColourName",
                     "srcWgtKUID": "g8a46a417f3041ad8b220aa96ae399ae"
-                },
-                {
-                    "kuid": "dbea989751e345499703b46c37ee516d",
-                    "propertyKey": "txtEnterColour",
-                    "srcWgtKUID": "e8ea770bb2bc4021a7a0e5fe9a520cdf"
                 },
                 {
                     "kuid": "h95f00dea5af4aaeae915d38c31a6ee5",

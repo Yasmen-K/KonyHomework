@@ -1,55 +1,45 @@
 define(function() {
   
   
-   const colourSchem = {
+   var colourSchem = {
     yellow:"flxYellow",
     red:"flxRed",
     blue:"flxBlue",
     green:"flxGreen",
     error:"flxError",
-    
+    netural:"flxNetural",
   };
 
- 
-  
-  var change = function(){
-//      let input = this.view.txtEnterColour.text;
-   
-     this.view.flxColourShower.skin =  colourSchem[this._inputColour]; 
-    
+  var change = function(){    
     	if(!colourSchem[this._inputColour]){
           this.view.flxColourShower.skin = colourSchem.error;
-            this.view.lblColourName.text = 'No such colour';
+          this.view.lblColourName.text = 'No such colour';
+          return;
         }
+   
+     this.view.flxColourShower.skin =  colourSchem[this._inputColour]; 
+     this.view.lblColourName.text = this._inputColour;
     
   };
   
-  
-
-  
-  
-
 	return {
 		constructor: function(baseConfig, layoutConfig, pspConfig) {
-          this.view.btnChangeColour.onClick = change.bind(this);
-//           this.view.txtEnterColour.onTextChange = showText.bind(this);
-          this._inputColour = this.view.txtEnterColour.text;
-
+          this._inputColour = "netural";
 		},
 		//Logic for getters/setters of custom properties
 		initGettersSetters: function() {
-
           defineGetter(this,'inputColour',function(){
             return this._inputColour;
           });
           
           defineSetter(this,"inputColour",function(value){
-            
-            if(this._inputColour === this){
+            if(value){
+               this._inputColour = value;
+               change.call(this);
               return;
-            }else{
-              this._inputColour = value;
             }
+            this._inputColour = "netural";
+            return this._inputColour;
           });
           
 		}

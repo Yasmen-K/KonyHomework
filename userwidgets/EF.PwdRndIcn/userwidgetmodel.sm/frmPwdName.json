@@ -1,13 +1,13 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_height_": {
+    "_bottom_": {
         "type": "string",
-        "value": "100%"
+        "value": "5dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "10dp"
     },
     "_margin_": [
         0,
@@ -23,39 +23,37 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sc213445f264469cadcaf6e732f360a4",
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "s30d850335b74b5a95094c834d72346c",
     "_top_": {
         "type": "string",
-        "value": "0dp"
-    },
-    "_width_": {
-        "type": "string",
-        "value": "100%"
+        "value": "5dp"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "lblColourName",
-        "flxColourShower"
+        "lblLock",
+        "txtPassword"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "colourchange",
+    "focusskin": "s089437afc534ec4a68597745fcec891",
+    "id": "frmPwdName",
     "info": null,
-    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "if3324934b71413abfb1f6c99470187a",
+    "kuid": "5fef190ac7e5452889fb72140815df4c",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "userwidgetmodel",
+    "parent": "PwdRndIcn",
     "pf": "userwidgetmodel",
-    "retaincontentalignment": false,
-    "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 1
 }

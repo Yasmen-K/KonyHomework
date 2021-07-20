@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s1a56329f7d942e69020b3cafbae9317",
+    "_skin_": "s3e3b3c42d8943aea5c0aad1c238d1ec",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -30,15 +30,14 @@
     },
     "canUpdateUI": true,
     "children": [
-        "colourchange",
-        "btnSubmitColour",
-        "txtColourInput"
+        "PaddedButtonRound",
+        "InstructionText"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "frmColourBoxController"
+            "name": "MainScreenController"
         }
     },
     "currentLocale": "default",
@@ -48,8 +47,7 @@
     "device": "iPhoneXS",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "friendlyName": "frmColourBox",
-    "id": "frmColourBox",
+    "id": "MainScreen",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -67,7 +65,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "j18c9d6c715f4870ae2a715cc0d68a8d",
+                "kuid": "da045fa655944dd999da3adc38013037",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -78,7 +76,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "bbe81f867bf44eeab280db1fffd20635",
+                        "kuid": "e224af852b0548d48b01883eb605007d",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -95,7 +93,7 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "f37035c8063645dc8141a41e752c0723",
+    "kuid": "e56c731eb2eb4b1cbaaa10603e9cbadd",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
@@ -130,7 +128,7 @@
     "spawinphone8": {
         "needAppMenu": false
     },
-    "titleBarSkin": "s8f875129fe54f0c9d884fd0215091c1",
+    "titleBarSkin": "sac2faf97aa9423091500c2f21cf52e2",
     "titlebar": true,
     "type": 3,
     "wType": "Form",

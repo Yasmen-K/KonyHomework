@@ -1,6 +1,8 @@
 {
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
     "DNDConfig": null,
     "__parentReadjusting__": false,
+    "_children_": [],
     "_height_": {
         "type": "string",
         "value": "100%"
@@ -15,7 +17,7 @@
         0,
         0
     ],
-    "_orientation_": 6,
+    "_orientation_": 1,
     "_padding_": [
         0,
         0,
@@ -23,7 +25,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sc213445f264469cadcaf6e732f360a4",
+    "_skin_": "s04078b24af64d8d80d6a847c01204a3",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -32,30 +34,22 @@
         "type": "string",
         "value": "100%"
     },
-    "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "lblColourName",
-        "flxColourShower"
-    ],
     "clipbounds": true,
-    "containerweight": 100,
+    "containerweight": 0,
+    "data": {},
     "enablescrolling": true,
-    "id": "colourchange",
+    "id": "donutchart",
     "info": null,
-    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "if3324934b71413abfb1f6c99470187a",
+    "kuid": "ad0d4b097f344c7ba6cf81d95088bb4f",
     "layouttype": 2,
-    "name": "kony.ui.FlexContainer",
-    "parent": "userwidgetmodel",
-    "pf": "userwidgetmodel",
-    "retaincontentalignment": false,
-    "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "ChartScreen",
+    "pf": "ChartScreen",
     "snapgridsize": 10,
     "snaptogrid": true,
-    "wType": "FlexContainer",
-    "widgetalignment": 1
+    "sourceUserWidget": "25d7f63a9f9d460fa5e15e40f1df62b3",
+    "wType": "UserWidgetInstance"
 }
